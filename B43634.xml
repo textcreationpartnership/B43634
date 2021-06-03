@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The perjur'd swain, or, The damsels bloody tragedy you loyal lovers now that hear this damsels destiny, sure can't forbear to shed a tear at this sad tragedy : the tune is, Sefautian's farewel / this may be printed, R.P.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43634</idno><idno type="EEBO-CITATION">767838803</idno>
+  <idno type="VID">212288</idno>
+  <idno type="EEBO-PROQUEST">2240871696</idno>
+  
+            <idno type="OCLC"> 767838803</idno>
+            <idno type="OCLC">ocn 767838803</idno>
+            <idno type="STC">Wing P1539</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212288)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3012:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The perjur'd swain, or, The damsels bloody tragedy you loyal lovers now that hear this damsels destiny, sure can't forbear to shed a tear at this sad tragedy : the tune is, Sefautian's farewel / this may be printed, R.P.</title>
+                  <author>R. P.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Blare, at the sign of the Looking-Glass on London-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1685 and 1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date range of publication suggested by Wing (2nd ed.).</note>
+                  <note>First line: As I rang'd for my recreation.</note>
+                  <note>Text in three columns with woodcuts above first two.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="genre_form">Ballads --  England --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:212288:1"/>
+            <pb facs="tcp:212288:2"/>
+            <pb facs="tcp:212288:3"/>
+            <head>The Perjur'd SWAIN;</head>
+            <head type="sub">
+               <hi>OR,</hi> The Damsels Bloody Tragedy.</head>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>You Loyal Lovers now that hear this Damsels Destiny;</hi>
+                     </l>
+                     <l>
+                        <hi>Sure can't forbear to shed a Tear at this sad Tragedy.</hi>
+                     </l>
+                  </lg>
+               </q>
+            </epigraph>
+            <opener>
+               <hi>The Tune is,</hi> Sefautian's Farewel.</opener>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>This may be Printed;</hi> R. P.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <figure>
+                  <figDesc>a woman seated on a mountainside, praying</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>a man with a dagger</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>AS I rang'd for my Recreation,</l>
+               <l>just as fair <hi>Phebus</hi> in glory did rise;</l>
+               <l>I o'reheard a young Damsel in passion,</l>
+               <l>who bath'd her Cheeks with her wat'ry Eyes;</l>
+               <l>Smiting her Breast, these words she exprest,</l>
+               <l>O where shall I wander to find any rest?</l>
+               <l>My unkind Swain, has left the Plain,</l>
+               <l>and long have I sought him, and yet alas in vain.</l>
+            </lg>
+            <lg>
+               <l>I ne'r thought you could have been <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruel,</l>
+               <l>when you my Person did dearly adore;</l>
+               <l>Saying, I was your amorous Iewel;</l>
+               <l>and vow'd you'lov'd me a thousand times more.</l>
+               <l>Then all the Gold you e're did behold,</l>
+               <l>but I find that passionate Love is soon cold;</l>
+               <l>When Maids believe, Young-men deceive,</l>
+               <l>and that is the reason that I lament and grieve.</l>
+            </lg>
+            <lg>
+               <l>By cach false and flattering Story,</l>
+               <l>my Heart to love you was easie betray'd;</l>
+               <l>This has clearly Eclipsed my Glory.</l>
+               <l>and you have Ruin'd an innocent of aid,</l>
+               <l>Whose bitter crys, now pierces the Shies,</l>
+               <l>while you do both Triumph and Tyrannize</l>
+               <l>Over me here, sharp and severe,</l>
+               <l>for loving so loyal, my Life must pay full dear.</l>
+            </lg>
+            <lg>
+               <l>HEre I make my moan to the Moūntains,</l>
+               <l>and senceless trees which are here in the <hi>Grove,</hi>
+               </l>
+               <l>While my Eyes they do flow like two Fountains,</l>
+               <l>sad sighs I send for the loss of my Love:</l>
+               <l>Here I declare, I am in dispair,</l>
+               <l>my passion is more than I'm able to bear;</l>
+               <l>True Love, I find, distracts my mind,</l>
+               <l>O <hi>Strephon,</hi> now tell me, how can you be unkind.</l>
+            </lg>
+            <lg>
+               <l>Pale-fac'd Death come hither and seize me</l>
+               <l>why should I live here in sorrow and grief?</l>
+               <l>O, it lies in thy power to ease me,</l>
+               <l>'tis thou art able to yield me relief:</l>
+               <l>Here let me have a sweet s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ient Grave,</l>
+               <l>for that is the boon I desire to crave;</l>
+               <l>To ease my smart, let me depart,</l>
+               <l>without long delaying, come wound me to the heart<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+            </lg>
+            <lg>
+               <l>Since my Swain has prov'd so ungrateful,</l>
+               <l>I here lye wrack'd on the torments of love;</l>
+               <l>Surely never was Man more deceitful,</l>
+               <l>he often call'd to the Powers above</l>
+               <l>To justifie, his pure Loyalty,</l>
+               <l>yet he from his vows and his promise can flye;</l>
+               <l>Here I take on, do what I can,</l>
+               <l>sure there is no Creature so false as wretched Man.</l>
+            </lg>
+            <lg>
+               <l>My sweet Lambs that are round me a feeding▪</l>
+               <l>here in this Valley both safe and secure;</l>
+               <l>While my innocent heart lies a bleeding,</l>
+               <l>you are not sensible what I endure:</l>
+               <l>What heaviness, my Soul does possess,</l>
+               <l>my Pen is not able alas, to express;</l>
+               <l>Yet soon I'll be, from my pains free,</l>
+               <l>for why should I languish in grief and misery.</l>
+            </lg>
+            <lg>
+               <l>To my Swain my love was intire,</l>
+               <l>and can't forget him as long as I live;</l>
+               <l>Therefo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e here I do vow to expire,</l>
+               <l>and will this minute the fatal stroak give:</l>
+               <l>Then she apply'd, a Da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r to her side,</l>
+               <l>which made a deep wound, so that quickly she dy'd:</l>
+               <l>In midst of pain, she cry'd amain,</l>
+               <l>farwel to the world, and my false &amp; perjur'd Swain</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for <hi>J. Blare,</hi> at the Sign of the <hi>Looking-Glass</hi> on <hi>London-Bridge.</hi>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
